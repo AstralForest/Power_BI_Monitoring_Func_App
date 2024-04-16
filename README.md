@@ -52,6 +52,10 @@ Each of these areas is independent and modular, allowing for the implementation 
 
 ![image](https://github.com/AstralForest/Power_BI_Monitoring/assets/156897451/884fd5f5-ec37-4431-a1ff-0ff160a199fc)
 
+We developed two alternative versions of the solution. Below is quick comparison between them to allow you to choose the one most tailored to your needs:
+
+![image](https://github.com/AstralForest/Power_BI_Monitoring/assets/156897451/cfb6484f-ed65-46b2-9979-38bea6e5b342)
+
 ## Considerations
 - The open-source solution does not include modules ensuring network security (Function App can be accessed by anyone possesing function key). For network security configuration, consider the premium version.
 - As per Microsoft documentation - some metrics will expose names, email addresses of users who have access to Power BI Service.
